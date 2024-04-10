@@ -15,6 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          fix
           fldfjsa;flkdsajkfjdsa
           Learn React f'dfd'adslkf;lsks;lfkdojgdjfd's
           fuck your selfstert
