@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React f'dfd'adslkf;lsks;lfkdojgdjfd's
-          fuck your selfs
+          fuck your selfsvsdvsvds
         </a>
       </header>
     </div>
