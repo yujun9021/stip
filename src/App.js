@@ -15,11 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React f'dfd'adslkf;lsks;lfkdojgdjfd's
-          fuck your selfstert
-          vnxvnlzcvlkzxclvlzclxll
-          werqwerqwerq
-          fuck your selfstert ;ldfj;sajfjdljdafjsifjd;ijdsaif;jf;ijdj
+          fix3
+         update
+         
         </a>
       </header>
     </div>
