@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          
+        잘 되고 있는 건가
         </a>
       </header>
     </div>
