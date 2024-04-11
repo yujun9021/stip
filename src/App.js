@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
         잘 되고 있는 건가
+        걱정하지마 할 수 없어
         </a>
       </header>
     </div>
